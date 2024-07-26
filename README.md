@@ -17,13 +17,13 @@ Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixar e in
 1. Clone este repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/transcrever-json.git
+    git clone https://github.com/jean-nathan/json-to-excel.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd transcrever-json
+    cd json-to-excel
     ```
 
 3. Instale as dependências necessárias:
